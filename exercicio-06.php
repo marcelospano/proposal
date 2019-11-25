@@ -1,0 +1,2 @@
+<?php
+//Exercício 06
